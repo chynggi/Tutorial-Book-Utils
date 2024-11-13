@@ -4,11 +4,13 @@ import gdown
 import argparse
 
 file_destinations = {'FaceMaskDetection':'Face Mask Detection.zip',
+              'FaceMaskDetection2':'Face Mask Detection.zip',
               'COVIDTimeSeries':'COVIDTimeSeries.zip',
               'GAN-Colorization':'Victorian400-GAN-colorization-data.zip',
               'NLP-QG':'CoNLL+BEA_corrected_essays.pkl'}
 
 file_id_dic = {'FaceMaskDetection':'18VyU9nXyPkv9dbtYtgpNDsIwQFTupetq',
+              'FaceMaskDetection2':'168v_vESkFQgnYrTpx66l-nb4GBCD2yeL',
               'COVIDTimeSeries':'1B36Djko-f0LtVxSaBEVYosLTTsu0qtsh',
               'GAN-Colorization':'1dZxoBIWmbuF-Oy_XZoS1z9EjPJwkTmy6',
               'NLP-QG':'1QccVdDR5ebpPV8tLA7XkY6JmUjM1TYsw'}
